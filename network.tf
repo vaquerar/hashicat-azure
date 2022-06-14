@@ -1,4 +1,5 @@
 #Billable
+#Department
 module "network" {
   source  = "app.terraform.io/WestJet-Vaq/network/azurerm"
   version = "3.5.0"
